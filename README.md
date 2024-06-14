@@ -1,11 +1,12 @@
 # Prasunet_ml_01
-House Price Prediction
+**House Price Prediction**
+
 This project aims to predict the prices of houses based on their square footage and the number of bedrooms and bathrooms using machine learning regression techniques.
 
-Overview
+**Overview**
 The prediction model is built using several regression algorithms including Linear Regression, Ridge Regression, Lasso Regression, Random Forest Regressor, and Gradient Boosting Regressor. The performance of each model is evaluated using mean squared error (MSE) and cross-validation.
 
-Getting Started
+**Getting Started**
 To run this project locally, follow these steps:
 
 Clone this repository to your local machine.
@@ -23,11 +24,9 @@ matplotlib
 seaborn
 pandas
 numpy
-Results
+
+**Results**
 The best performing model based on cross-validation scores is Gradient Boosting Regressor, with a mean squared error of X.
 
 Author
 Vikas Choudhary
-
-License
-This project is licensed under the MIT License.
